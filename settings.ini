@@ -1,0 +1,2 @@
+[settings]
+MY_MONEY = 1000
